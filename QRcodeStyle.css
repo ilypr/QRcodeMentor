@@ -1,0 +1,88 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: hsl(212, 45%, 89%);
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+/* QR_BOXplacement (pisition of the whole qrcontainer)*/
+.QR_BOXplacement {
+    display: flex;
+    justify-content: center; /* horizontal centering */
+    align-items: center; /* vertical centering */
+    height: 100vh;  /* makes sure taht the container fills the screen height */
+}
+
+/* QRbackgroundCustomization (styling for the white container)*/   
+.QRbackground {
+    background-color: rgb(255, 255, 255);
+    width: 288px;
+    border-radius: 15px;
+    padding: 15px;
+    padding-bottom: 50px;
+    filter: drop-shadow(1px 1px 10px rgb(194, 194, 194));
+}
+
+/* both (styling and positioning for the qr-code image) */
+.QRcodeItself {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.QRcodeItself img {
+    border-radius: 15px;
+    width: 288px;
+    height: 288px;
+}
+
+/* SHELL FOR THE TEXT CONTAINER */
+.text-container {
+    text-align: center;
+    justify-content: center;
+}
+
+h1 {
+    font-weight: 600;
+    font-size: 1.4rem;
+    margin-top: 6%;
+    margin-bottom: 6%;
+    color: hsl(218, 44%, 22%);
+    text-align: center;
+}
+
+p {
+    font-size: 1.02rem;
+    font-weight: 400;
+    color: hsl(216, 15%, 48%);
+}
+
+/* LICENSE + (links) */ 
+.attribution {
+    font-size: 15px; 
+    text-align: center;
+    margin-top: auto;
+    color: hsl(216, 15%, 48%);
+}
+
+ /* links styling */
+ a {
+    color: hsl(218, 44%, 22%);
+    text-decoration: none;
+}
+
+a:hover {
+    color: hsl(216, 15%, 48%);
+}
+ /* pseudo-license position (so It'd stick to the bottom of the webage) */
+main {
+    flex-grow: 1;
+}
