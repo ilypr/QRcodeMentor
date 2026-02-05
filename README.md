@@ -5,7 +5,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-The project's purpose is to get the user to the Frontend Mentor website via qr-code scan.
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -19,6 +18,8 @@ The project's purpose is to get the user to the Frontend Mentor website via qr-c
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
+
+The project's purpose is to get the user to the Frontend Mentor website via qr-code scan.
 
 ### Screenshot
 
