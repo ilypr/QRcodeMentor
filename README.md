@@ -18,11 +18,12 @@ The main goal of this project was to build a QR code component and get it lookin
 ### Screenshot
 
 # Qr-code on pc screen
-![](./Qr-code-PC.jpg)
-# Qr-code on a phone
-![](./Qr-code-MOBILE.jpg)
 
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
+![](./Qr_pc_version.png)
+
+# Qr-code on a phone
+
+![](./Qr_mobile_version.png)
 
 ### Links
 
