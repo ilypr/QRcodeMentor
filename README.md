@@ -5,7 +5,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
+  - [Screenshot](#screenshots)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -15,18 +15,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 The main goal of this project was to build a QR code component and get it looking as close as the original reference, using provided style-guide.md file.
 
-### Screenshot
-
-# Qr-code on pc screen
-![](QRcodeMentor/Qr_pc_version.png)
-# Qr-code on a phone
-![](QRcodeMentor/Qr_mobile_version.png)
-
-![](./Qr_pc_version.png)
-
-# Qr-code on a phone
-
-![](./Qr_mobile_version.png)
+### Screenshots
+<p style="text-align:center;">Pc and mobile versions of the webpage</p>
+<div style="text-align:center;">
+  <img src="./Qr_pc_version.png" width="600" alt="QR code PC">
+  <img src="./Qr_mobile_version.png" width="224" alt="QR code Mobile">
+</div>
 
 ### Links
 
