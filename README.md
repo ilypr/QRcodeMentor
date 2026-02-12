@@ -24,7 +24,7 @@ The main goal of this project was to build a QR code component and get it lookin
 
 ### Links
 
-- Solution URL: [Click](https://your-solution-url.com)
+- Solution URL: [Click](https://github.com/ilypr/QRcodeMentor)
 - Live Site URL: [Click](https://qrcode-pr.netlify.app/)
 
 ## My process
